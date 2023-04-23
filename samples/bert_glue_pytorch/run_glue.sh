@@ -20,6 +20,6 @@ python ./main.py \
     --max_seq_length 128 \
     --per_gpu_train_batch_size=32 \
     --learning_rate 2e-5 \
-    --num_train_epochs 3.0 \
+    --num_train_epochs 100.0 \
     --output_dir /tmp/$TASK/ \
     --overwrite_output_dir

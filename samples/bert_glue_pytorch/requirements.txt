@@ -8,3 +8,4 @@ seqeval==1.2.2
 tensorboard==2.4.0
 tensorboardX==2.4
 tensorflow_datasets==4.4.0
+wget
